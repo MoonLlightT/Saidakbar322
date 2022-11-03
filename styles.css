@@ -1,0 +1,17 @@
+*{background-color: #152b4d;
+    font-family: Verdana;
+    color: rgb(10, 229, 245);}
+    
+    li{font-family: "Comic Sans MS", "Comic Sans", cursive;}
+    
+    h1{font-style: bold;
+    color: #ff9900;}
+    
+    a{color: #aa4d00;}
+    
+    
+    hr{
+            height: 1px;
+            background-color: #ccc;
+            border: none;
+        }
